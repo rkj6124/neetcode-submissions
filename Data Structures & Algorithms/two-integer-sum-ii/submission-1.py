@@ -15,3 +15,4 @@ class Solution:
                 right -=1
                 while left < right and numbers[right] == numbers[right + 1]:
                     right -= 1
+        
